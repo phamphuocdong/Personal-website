@@ -6,11 +6,11 @@ author = "Radek"
 
 # Hi there
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+My name is Dong. I'm 3 years student in RMIT University.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+I'm on my way learning to become a Cloud DevOps Engineer. 
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+Currently, my brain have a huge blank space! 😆
 
 The theme includes:
 
